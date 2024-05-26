@@ -1,0 +1,18 @@
+html,body{
+	font-family: 'Poppins';
+	font-size: 15px;
+	line-height: 1.5;
+	box-sizing: border-box;
+	margin: 0;
+	
+}
+a{
+	text-decoration: none;
+	font-weight: 500;
+}
+.navbar-toggler{
+	background: #58D68D;
+	border: none;
+	padding: 10px 6px;
+	outline: none;
+}
